@@ -1,5 +1,5 @@
 {
-    "extends": ["local>forsakringskassan/renovate-config:lib"],
+    "extends": ["local>forsakringskassan/renovate-config"],
     "packageRules": [
         {
             "matchPackageNames": ["prettier"],
