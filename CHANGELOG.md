@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [2.0.1](https://github.com/Forsakringskassan/prettier-config/compare/v2.0.0...v2.0.1) (2024-04-06)
+
+
+### Bug Fixes
+
+* fix broken prettier cli binary ([e748195](https://github.com/Forsakringskassan/prettier-config/commit/e748195a2daea960402007905a1109c02b20751f))
+
 ## [2.0.0](https://github.com/Forsakringskassan/prettier-config/compare/v1.4.0...v2.0.0) (2024-04-06)
 
 
