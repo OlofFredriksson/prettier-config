@@ -32,7 +32,7 @@
     "test": "npm run lint && npm run prettier:check"
   },
   "commitlint": {
-    "extends": "@forsakringskassan/commitlint-config"
+    "extends": "@forsakringskassan/commitlint-config/no-jira"
   },
   "lint-staged": {
     "*.{js,json,md,css,scss,html,vue,ts}": "prettier --write",
