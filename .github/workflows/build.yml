@@ -7,6 +7,7 @@ jobs:
         runs-on: ubuntu-latest
         strategy:
             matrix:
+                # note: keep in sync with if-statement on npm-pkg-lint below
                 node-version: [16.x, 18.x, 20.x, 21.x]
         steps:
             - uses: actions/checkout@v4
@@ -25,5 +26,8 @@ jobs:
               run: |
                   npm run --if-present build
                   node prettier.cjs --version
+            - name: npm-pkg-lint
+              if: matrix.node-version == '20.x'
+              run: |
                   npm pack
-                  npm exec npm-pkg-lint
+                  npm exec npm-pkg-lint -- --ignore-node-version=16
