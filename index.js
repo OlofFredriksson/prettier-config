@@ -26,5 +26,13 @@ module.exports = {
                 printWidth: 160,
             },
         },
+        {
+            /* adjust width for examples so they fit in the documentation "view
+             * source" container */
+            files: "**/examples/*.vue",
+            options: {
+                printWidth: 100,
+            },
+        },
     ],
 };
