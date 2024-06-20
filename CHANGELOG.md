@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [2.1.0](https://github.com/Forsakringskassan/prettier-config/compare/v2.0.3...v2.1.0) (2024-06-20)
+
+
+### Features
+
+* narrower print width for documentation examples ([3c61e4f](https://github.com/Forsakringskassan/prettier-config/commit/3c61e4f2e5476543c4337e53bd21a73a6dc5a629))
+
+
+### Bug Fixes
+
+* **deps:** update dependency prettier to v3.3.2 ([4b5d607](https://github.com/Forsakringskassan/prettier-config/commit/4b5d607e9e32631d9d64c04e11d84b4586314767))
+
 ## [2.0.3](https://github.com/Forsakringskassan/prettier-config/compare/v2.0.2...v2.0.3) (2024-06-14)
 
 
