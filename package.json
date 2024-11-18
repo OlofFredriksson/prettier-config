@@ -48,7 +48,7 @@
     "@forsakringskassan/eslint-config": "11.4.3",
     "husky": "9.1.6",
     "lint-staged": "15.2.10",
-    "npm-pkg-lint": "3.10.1",
+    "npm-pkg-lint": "3.10.2",
     "ts-node": "10.9.2"
   },
   "engines": {
