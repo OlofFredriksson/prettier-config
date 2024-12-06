@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [2.1.2](https://github.com/Forsakringskassan/prettier-config/compare/v2.1.1...v2.1.2) (2024-12-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prettier to v3.4.0 ([e29de8d](https://github.com/Forsakringskassan/prettier-config/commit/e29de8d49ffd083cfb38126ea9bdad199f073ba1))
+* **deps:** update dependency prettier to v3.4.1 ([384c18b](https://github.com/Forsakringskassan/prettier-config/commit/384c18b2f9a993212fbe2f83790f4121103849bc))
+
 ## [2.1.1](https://github.com/Forsakringskassan/prettier-config/compare/v2.1.0...v2.1.1) (2024-07-19)
 
 
