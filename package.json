@@ -44,7 +44,7 @@
     "prettier": "3.4.2"
   },
   "devDependencies": {
-    "@forsakringskassan/commitlint-config": "1.3.6",
+    "@forsakringskassan/commitlint-config": "1.4.0",
     "@forsakringskassan/eslint-config": "11.4.12",
     "husky": "9.1.7",
     "lint-staged": "15.2.11",
