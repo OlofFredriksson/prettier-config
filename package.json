@@ -47,7 +47,7 @@
     "@forsakringskassan/commitlint-config": "1.4.0",
     "@forsakringskassan/eslint-config": "11.4.12",
     "husky": "9.1.7",
-    "lint-staged": "15.2.11",
+    "lint-staged": "15.3.0",
     "npm-pkg-lint": "3.10.6",
     "ts-node": "10.9.2"
   },
