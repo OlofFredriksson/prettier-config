@@ -1,0 +1,38 @@
+{
+  "name": "@forsakringskassan/prettier-config-svelte",
+  "version": "2.1.3",
+  "description": "FK Prettier Svelte Config",
+  "keywords": [
+    "prettier"
+  ],
+  "scripts": {
+    "build": "node generate.mjs"
+  },
+  "homepage": "https://github.com/Forsakringskassan/prettier-config",
+  "bugs": "https://github.com/Forsakringskassan/prettier-config/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Forsakringskassan/prettier-config.git"
+  },
+  "license": "MIT",
+  "author": "Försäkringskassan",
+  "main": "dist/index.js",
+  "bin": {
+    "prettier": "prettier.cjs"
+  },
+  "files": [
+    "dist/index.js",
+    "prettier.cjs"
+  ],
+  "dependencies": {
+    "prettier": "3.4.2",
+    "prettier-plugin-svelte": "^3.3.2"
+  },
+  "engines": {
+    "node": ">= 20",
+    "npm": ">= 9"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.2"
+  }
+}
