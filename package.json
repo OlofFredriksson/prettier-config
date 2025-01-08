@@ -18,6 +18,7 @@
     "packages/*"
   ],
   "scripts": {
+    "build": "lerna run build",
     "eslint": "eslint .",
     "eslint:fix": "eslint --fix .",
     "lint": "eslint .",
