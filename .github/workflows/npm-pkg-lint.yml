@@ -26,6 +26,6 @@ jobs:
                       set -e
                       cd $pkg
                       npm pack
-                      npm exec npm-pkg-lint -- --allow-dependency prettier,vue --ignore-node-version=16
+                      npm exec npm-pkg-lint -- --allow-dependency prettier,vue
                       echo "::endgroup::"
                   ); done
