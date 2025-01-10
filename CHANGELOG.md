@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## 3.0.0 (2025-01-10)
+
+### ⚠ BREAKING CHANGES
+
+* **@forsakringskassan/prettier-config:** dropped support for node < 20.
+
+### Features
+
+* **@forsakringskassan/prettier-config-svelte:** prettier svelte 5293d0e
+* **@forsakringskassan/prettier-config:** minimum node 20 6463cf3
+
+### Bug Fixes
+
+* **@forsakringskassan/prettier-config-svelte, @forsakringskassan/prettier-config:** make bin files executable b695fdf
+
 ## [2.1.3](https://github.com/Forsakringskassan/prettier-config/compare/v2.1.2...v2.1.3) (2024-12-20)
 
 ### Bug Fixes
