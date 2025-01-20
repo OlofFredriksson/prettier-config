@@ -33,6 +33,6 @@
     "npm": ">= 9"
   },
   "devDependencies": {
-    "esbuild": "^0.24.2"
+    "esbuild": "0.24.2"
   }
 }
