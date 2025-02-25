@@ -25,7 +25,7 @@
     "prettier.cjs"
   ],
   "dependencies": {
-    "prettier": "3.5.1"
+    "prettier": "3.5.2"
   },
   "engines": {
     "node": ">= 20",
