@@ -35,7 +35,7 @@
   "prettier": "./packages/prettier-config/index.js",
   "devDependencies": {
     "@forsakringskassan/commitlint-config": "2.0.1",
-    "@forsakringskassan/eslint-config": "11.9.7",
+    "@forsakringskassan/eslint-config": "11.9.8",
     "husky": "9.1.7",
     "lerna": "8.2.2",
     "npm-pkg-lint": "3.10.12",
