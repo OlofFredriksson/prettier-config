@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 3.1.0 (2025-06-13)
+
+### Features
+
+* **@forsakringskassan/prettier-config-svelte, @forsakringskassan/prettier-config:** include prettier-plugin-packagejson dc0800b
+
 ## 3.0.5 (2025-03-07)
 
 ### Bug Fixes
